@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Lmarl, 22 M, Jr. Front-End Software Engineer 
 ⚡ Fun fact: I like table tennis, spagetti and ML
+## Programming is an explanatory activity.     -Roman Harper
 
 <!--
 **lcsaria/lcsaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
