@@ -2,7 +2,7 @@
 ### I'm Lmarl, 22, M, Jr. Front-End Software Engineer 
 ## General Trias, Cavite, Philippines
 ⚡ Fun fact: I like table tennis, spagetti and ML
-
+✨ _love_ ✨
 <!--
 **lcsaria/lcsaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
