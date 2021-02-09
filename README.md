@@ -1,5 +1,5 @@
-### ✨ _hello world_ ✨ 
-### I'm Lmarl, 23, M, Jr. Front-End Software Engineer 
+### ✨ _-hello world-_ ✨ 
+### I'm Lmarl, 23, M, Programmer / Public Servant
 ## General Trias, Cavite, Philippines
 ⚡ Fun fact: I like table tennis, noodles and ML
 
