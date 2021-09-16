@@ -1,7 +1,7 @@
 ### ✨ _-hello world-_ ✨ 
-### I'm Lmarl, 23, M, Programmer / Public Servant
+### I'm Lmarl, 23, M, Programmer / Public Servant / Data Encoder
 ## General Trias, Cavite, Philippines
-⚡ Fun fact: I like table tennis, noodles and playing ML
+⚡ Fun fact: I like table tennis, spaghetti and playing ML
 
 <!--
 **lcsaria/lcsaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
