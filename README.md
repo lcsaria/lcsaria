@@ -1,6 +1,7 @@
-### ✨ _-hello world-_ ✨ 
-### I'm Lmarl, 24, M, Programmer / Public Servant / Data Encoder
+### ✨ _--hello world--_ ✨ 
+### I'm Lmarl, 24, M, Programmer / Public Servant / Techie / Food Hobbie
 ## General Trias, Cavite, Philippines
+🔭 I’m currently working on Norima Technologies..
 ⚡ Fun fact: I like table tennis, spaghetti and playing ML
 
 <!--
