@@ -1,7 +1,7 @@
 <h1>✨ Hello, I'm Lmarl ✨</h1>
 <span> Developer/Programmer from Gen. Trias, Cavite </span>
-🔭 I’m currently working on Norima Technologies..
-⚡ Fun fact: I like table tennis, spaghetti and playing ML
+<span>🔭 I’m currently working on Norima Technologies..</span>
+<span>⚡ Fun fact: I like table tennis, spaghetti and playing ML</span>
 
 
 <p>
