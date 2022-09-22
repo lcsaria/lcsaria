@@ -1,6 +1,5 @@
-<h1>✨ _--hello world--_ ✨</h1>
-### I'm Lmarl, 24, M, Programmer / Public Servant / Techie / Food Hobbie
-## 📍General Trias, Cavite, Philippines
+<h1>✨ Hello, I'm Lmarl ✨</h1>
+<span> Developer/Programmer from Gen. Trias, Cavite </span>
 🔭 I’m currently working on Norima Technologies..
 ⚡ Fun fact: I like table tennis, spaghetti and playing ML
 
@@ -19,8 +18,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
-
 
 
 [![Lmarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcsaria&hide=issues,contribs&theme=radical)](https://github.com/lcsaria/README.md)
