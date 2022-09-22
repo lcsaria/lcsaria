@@ -1,3 +1,10 @@
+<h1>✨ _--hello world--_ ✨</h1>
+### I'm Lmarl, 24, M, Programmer / Public Servant / Techie / Food Hobbie
+## 📍General Trias, Cavite, Philippines
+🔭 I’m currently working on Norima Technologies..
+⚡ Fun fact: I like table tennis, spaghetti and playing ML
+
+
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -8,15 +15,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Springboot-F7DF1E&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-### ✨ _--hello world--_ ✨ 
-### I'm Lmarl, 24, M, Programmer / Public Servant / Techie / Food Hobbie
-## 📍General Trias, Cavite, Philippines
-🔭 I’m currently working on Norima Technologies..
-⚡ Fun fact: I like table tennis, spaghetti and playing ML
+
 
 
 [![Lmarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcsaria&hide=issues,contribs&theme=radical)](https://github.com/lcsaria/README.md)
