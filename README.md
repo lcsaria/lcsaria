@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<hr/>
 [![Lmarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcsaria&hide=issues,contribs&theme=radical)](https://github.com/lcsaria/README.md)
 ****
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcsaria&theme=radical)](https://github.com/lcsaria/README.md)
