@@ -1,11 +1,11 @@
 <h1>✨ Hello, I'm Lmarl ✨</h1>
 <h3> Developer/Programmer from Gen. Trias, Cavite </h3>
-*****
+<hr/>
 <br/>
 🔭 I’m currently working on Norima Technologies.. <br/>
 ⚡ Fun fact: I like table tennis, spaghetti and playing ML 
 <br/>
-*****
+<hr/>
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
