@@ -21,6 +21,6 @@
 
 <hr/>
 [![Lmarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcsaria&hide=issues,contribs&theme=radical)](https://github.com/lcsaria/README.md)
-<hr/>
+****
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcsaria&theme=radical)](https://github.com/lcsaria/README.md)
 
