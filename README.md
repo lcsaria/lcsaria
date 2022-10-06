@@ -1,4 +1,4 @@
-<h1 style={{textAlign: center;}}>✨ Hello, I'm Lmarl ✨</h1>
+<h1>✨ Hello, I'm Lmarl ✨</h1>
 <h3> Developer/Programmer from Gen. Trias, Cavite </h3>
 <hr/>
 🔭 I’m currently working on Norima Technologies.. <br/>
