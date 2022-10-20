@@ -1,6 +1,6 @@
 <h1>✨✨✨Hello, I'm Lmarl ✨✨✨</h1>
 <hr/>
-https://www.codewars.com/users/lcsaria/badges/large
+<img src="https://www.codewars.com/users/lcsaria/badges/large" />
 <hr/>
 <h3> Developer/Programmer from Gen. Trias, Cavite </h3>
 <hr/>
