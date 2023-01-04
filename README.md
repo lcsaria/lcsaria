@@ -1,4 +1,4 @@
-<h1>✨✨✨ ✨✨✨ Hello, I'm Lmarl ✨✨✨ ✨✨✨</h1>
+<h1> ✨✨✨ Hello, I'm Lmarl ✨✨✨ </h1>
 <hr/>
 <img src="https://www.codewars.com/users/lcsaria/badges/large" />
 <hr/>
