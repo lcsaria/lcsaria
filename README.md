@@ -5,7 +5,7 @@
 <h3> Developer/Programmer from Gen. Trias, Cavite </h3>
 <hr/>
 🔭 I’m currently working on Norima Technologies.. <br/>
-⚡ Fun fact: I like table tennis, spaghetti and playing ML 
+⚡ Fun fact: I like table tennis, spaghetti and playing mobile games like ML
 <hr/>
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
