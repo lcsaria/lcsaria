@@ -5,7 +5,7 @@
 <hr/>
 <h3> Developer/Programmer from Gen. Trias, Cavite </h3>
 <hr/>
-🔭 I’m recently working on Norima Technologies.. <br/>
+🔭 I’m recently working on Accenture.. <br/>
 ⚡ Fun fact: I like table tennis, spaghetti and playing mobile games like ML
 <hr/>
 <p>
